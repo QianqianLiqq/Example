@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebRoot/default.html=UTF-8
+encoding//WebRoot/extjs/ext-lang-zh_CN.js=UTF-8
+encoding//WebRoot/javascript=UTF-8
+encoding//WebRoot/javascript/FullScreen.js=UTF-8
+encoding//WebRoot/main.html=UTF-8
+encoding//WebRoot/register.html=UTF-8
+encoding//src/com/lxy/dao/UserDao.java=UTF-8
+encoding//src/com/lxy/servlet/LoginServlet.java=UTF-8
+encoding//src/com/lxy/servlet/RegServlet.java=UTF-8
